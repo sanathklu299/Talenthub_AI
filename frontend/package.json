@@ -20,6 +20,7 @@
   "devDependencies": {
     "@emnapi/core": "^1.11.2",
     "@emnapi/runtime": "^1.11.2",
+    "@napi-rs/wasm-runtime": "^1.1.6",
     "@tailwindcss/postcss": "^4.3.2",
     "@types/react": "^19.2.17",
     "@types/react-dom": "^19.2.3",
